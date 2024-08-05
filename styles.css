@@ -1,0 +1,26 @@
+body {
+    font-family: 'Fredoka One', cursive;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: #ff6347;
+}
+
+#start-button, .answer-button {
+    font-size: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#timer {
+    font-size: 48px;
+    color: #ff4500;
+}
+
+#player {
+    margin-top: 20px;
+}
