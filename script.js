@@ -4,7 +4,7 @@ let score = 0;
 let timerInterval;
 let videos = [];
 
-const API_KEY = 'YOUR_YOUTUBE_API_KEY';  // Замените на ваш API ключ YouTube
+const API_KEY = 'AIzaSyB_J4FuqITXd7AxyOT4NPhaV5KtJi1WTsw';  // Замените на ваш API ключ YouTube
 const searchQuery = 'popular music';  // Запрос для поиска популярных видео
 
 // Получение списка видео из YouTube API
